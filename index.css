@@ -1,0 +1,141 @@
+
+.nav-right{
+    display: flex;
+    flex-direction: row;
+    padding-right:150px ;
+    margin-top: 10px;
+    margin-bottom: 6px;   
+}
+.navbar1{
+    text-align: right;
+    justify-content:right;
+}
+.nav-left{
+  padding-left :150px;
+}
+.nav-right button{
+    border-radius: 50px;
+  
+}
+.bg{
+    height: 90vh;
+    background-image: url(https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_1899,h_1106/v1613521692/assets/d9/ce6c00-32b0-4b93-9f0d-6f927d93da08/original/Rider_Home_bg_desktop2x.png);
+    background-size: cover;
+    padding:100px
+}
+.forms{
+    background-color: white;
+    width: 450px;
+    height: 450px;
+   
+}
+.forms-in{
+    padding-left: 25px;
+    padding-top: 25px;
+    margin-right: 100px;
+}
+.req{
+    margin-right:10px ;
+
+}
+.Pick-Up{
+    width:10px;
+}
+
+.form-header {
+    display: flex;
+    
+}
+.back-2{
+
+    height: 50vh;
+    background-position:center;
+    background-position-x:center ;
+    background-position-y:center ;
+    
+    background-image: url(https://www.uber-assets.com/image/upload/v1614379346/assets/f4/63ca3e-b0d7-4463-988f-a2fead503ddc/original/DotCom_Update_U4B_bg_mobileD.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+   
+  
+
+}
+.jumb{
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.cards{
+    display: flex;
+    padding-left:6%; 
+    padding-top: 2%;
+    
+}
+.card{
+    margin-right: 6%;
+}
+.card-header1{
+    padding-top: 3%;
+    padding-left: 6%; 
+}
+.logo{
+    width:36px;
+    height: 36px;
+    margin: 3%;
+}
+.logo-cards{
+    margin-left: 6%;
+    margin-top: 6%;
+
+}
+.uber1{
+    display: flex;
+    margin-top: 6%;
+    cursor: pointer;
+}
+.ridewithus{
+    margin-top: 6%;
+    margin-left: 6%;
+}
+.uberin{
+    margin-left: 15px;
+    padding: 15px;
+}
+.apps{
+    background-color: rgba(249, 245, 245, 0.827);
+    height: 60vh;
+    padding:45px;
+}
+.apps h1{
+    padding-left: 6%;
+}
+.sign{
+    padding: 30px;
+    display: flex;
+    margin-left: 7%;
+    height: 20vh;
+    cursor: pointer;
+}
+.footer{
+    height: 70vh;
+    background-color: black;
+    display: flex;
+   padding-left: 6%;
+   padding-top: 6%;
+   
+}
+.list-items{
+    padding-right: 10%;
+    cursor: pointer;
+}
+.list-group li{
+    color: white;
+    margin-top: 10px;
+    background-color: black;
+  
+    
+
+}
+.list-group{
+    width:200px;
+}
